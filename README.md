@@ -29,7 +29,7 @@
 <br>
   <br>
   
-| ![Danux_coder's github stats](https://github-readme-stats.vercel.app/api?username=Rodevinda&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rodevinda&theme=tokyonight) |
+| ![Danux_coder's github stats](https://github-readme-stats.vercel.app/api?username=Rodevinda&show_icons=true&theme=tokyonight) | ![Danux_coder GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rodevinda&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodevinda&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Rodevinda&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
