@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer from Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rodevinda&label=Profile%20views&color=0e75b6&style=flat" alt="rodevinda" /> </p>
-<p align="center"> <img src="https://github.com/Rodevinda/Rodevinda/blob/main/lan.jpg" /> </p>
+
 - 🔭 I’m currently working on **web development**
 
 - 🌱 I’m currently learning **python,PHP**
@@ -11,6 +11,7 @@
 
 - 📫 How to reach me **roshan.de12@gmail.com**
 
+<p align="center"> <img src="https://github.com/Rodevinda/Rodevinda/blob/main/lan.jpg" /> </p>
 <h3 align="center">Connect with me:</h3>
 <p align="left">
 </p>
